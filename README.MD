@@ -6,3 +6,4 @@ Learning by doing
 Day 2 and making progress
 Let's find out
 
+Pushing back to Rstudio
